@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>Naaz's Data</title>
+  <head>
+  <body>
+     <table border="5px">
+     <tr>
+        <th>
+     <h1>Naaz's Data</h1>
+        </th>
+     </tr>
+     <tr>
+        <th>
+     <p>Mad-Ad Activity Resources</p>
+     <a href = "https://www.mediafire.com/file/lp8gmduhq5c7lky/Delhi+Public+School+Sonepat.mp4/file">
+        <button>Click Here (MediaFire)</button
+     </a>
+        </th>
+    </tr>
+    <tr>
+        <th>
+     <p>802.11n Device Drivers</p>
+     <a href = "https://www.mediafire.com/file/y6kj4n5r2rvnur5/realtek_rtl88xx_usb_wireless_1026_13_625_2014_driver.zip/file">
+        <button>Click Here (MediaFire)</button
+     </a>
+        </th>
+    </tr>
+  </table>
+  </body>
+</html>
